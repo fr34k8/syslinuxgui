@@ -1,0 +1,1 @@
+This project will assist user's in creating a GUI Menu for Syslinux.  The standard text menu is boring and does not utilize nearly all of the robust features that are available for a custom and great looking design.
